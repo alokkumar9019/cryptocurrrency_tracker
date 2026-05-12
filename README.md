@@ -28,7 +28,7 @@ A modern and responsive Cryptocurrency Tracker web application built using React
 
 ## 🌐 Live Demo
 
-[Live Project](https://crypto-hunter.netlify.app/)
+[Live Project](https://cryptocurrrency-tracker.vercel.app/)
 
 ---
 
